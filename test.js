@@ -7,3 +7,5 @@ testing()
 const checkhere = () => {
     console.log("Hello world")
 }
+
+checkhere()
